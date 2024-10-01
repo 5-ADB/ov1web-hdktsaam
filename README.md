@@ -7,3 +7,6 @@ Wat moet mijn website bevatten?
 * hoofdtitel
 * menu rechts bovenaan ( HOME - INFO - BESTELLEN)
 * rechts onderaan moet er ALTIJD een kadertje staan met CHAT
+
+
+De website bevat dus 3 pagina's waar telkens het menu op terug te vinden is met de 3 zaken in. 
